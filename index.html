@@ -2,7 +2,51 @@
 layout: home
 author_profile: true
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Page with Markdown Content</title>
+    <!-- Include Marked library from a CDN to parse Markdown in the browser -->
+    <script src="https://jsdelivr.net"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            color: #333;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 1rem;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 0.2rem 0.4rem;
+            border-radius: 3px;
+            font-family: "Courier New", Courier, monospace;
+        }
+        blockquote {
+            border-left: 4px solid #007acc;
+            margin: 0;
+            padding-left: 1rem;
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
 
+    <!-- Target container where the rendered HTML will be injected -->
+    <div id="content"></div>
+
+    <!-- Hidden template containing your raw Markdown text -->
+    <script type="text/template" id="markdown-content">
 ## Introduction
 
 Hello, I am Tanwistha Saha. I am an adjunct professor at the Department of Computer Science at Lewis and Clark College. For more than ten years I had been a technical product manager working at the intersection of research, product and engineering in seconductor manufacturing industry. and AI infrastructure and platforms. I use this site to share my research work, writing, teaching and projects. 
@@ -11,6 +55,19 @@ Hello, I am Tanwistha Saha. I am an adjunct professor at the Department of Compu
 
 - August 2026 : returned to academia and excited to share my learnings with next generation of computer scientists at Lewis and Clark College!
 
+ </script>
 
+    <script>
+        // Extract the raw text from the template script tag
+        const rawMarkdown = document.getElementById('markdown-content').innerHTML;
+        
+        // Convert the Markdown syntax into standard HTML tags
+        const renderedHtml = marked.parse(rawMarkdown);
+        
+        // Inject the generated HTML into the target container
+        document.getElementById('content').innerHTML = renderedHtml;
+    </script>
+</body>
+</html>
 
 
