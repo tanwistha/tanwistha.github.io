@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 
-permalink: /about/
+permalink: /teaching/
 author_profile: true
 ---
 Teaching details for Fall 2026
