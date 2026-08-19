@@ -1,8 +1,7 @@
 ---
 layout: single
-title: About
+title: 
 permalink: /about/
 author_profile: true
 ---
-# This is a placeholder.
-## please be patient
+Teaching details for Fall 2026
