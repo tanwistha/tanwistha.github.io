@@ -1,7 +1,7 @@
 ---
 layout: page #single
 title: About
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 # This is a placeholder.
