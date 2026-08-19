@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Welcome to Tanwistha's space"
+title                    : "Tanwistha's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tanwistha Saha"
-description              : "Official Homepage for Teaching, research etc."
+description              : "Official Homepage for Teaching, Research etc."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Tanwistha Saha, PhD."
   avatar           : "/assets/images/IMG_9434_copy.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Adjunct Professor, Technical Product Manager"
+  bio              : "Adjunct Professor, Technical Product Manager for AI Infra & Platforms"
   location         : "Portland, Oregon, USA"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -124,6 +124,13 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:tsaha@lclark.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tanwistha-saha-phd-5901194/"
+    - label: "Google Scholar"
+      #icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=MbxT0B0AAAAJ&hl=en"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
