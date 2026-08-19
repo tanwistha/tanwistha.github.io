@@ -1,0 +1,12 @@
+---
+layout: home
+permalink: /
+author_profile: true
+---
+## Introduction
+
+Hello, I am Tanwistha Saha. I am an adjunct professor at the Department of Computer Science at Lewis and Clark College. For more than ten years I had been a technical product manager working at the intersection of research, product and engineering in seconductor manufacturing industry. and AI infrastructure and platforms. I use this site to share my research work, writing, teaching and projects. 
+
+## Recent News
+
+- August 2026 : returned to academia and excited to share my learnings with next generation of computer scientists at Lewis and Clark College!
