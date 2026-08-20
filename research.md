@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-A comprehensive list of published journal articles, conference papers, and working preprints.
+A (somewhat) comprehensive list of published conference papers, book chapters, patents and working preprints. For more latest list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=MbxT0B0AAAAJ&hl=en)
 
 ## Conference Proceedings
 
