@@ -11,3 +11,12 @@ search: false
 body {
   font-size: 14px; /* Theme default is roughly 16px */
 }
+
+.sidebar {
+  font-size: 0.85rem; /* Change this value to your preferred size */
+
+  /* Target specifically the author bio/links text if needed */
+  .author__bio, .author__urls-wrapper {
+    font-size: 0.8rem; 
+  }
+}
