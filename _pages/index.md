@@ -3,7 +3,7 @@ layout: home
 permalink: /
 author_profile: true
 ---
-# About Me
+## About Me
 
 I am an adjunct professor at the [Department of Computer Science](https://college.lclark.edu/departments/computer_science/) at [Lewis and Clark College](https://www.lclark.edu/). Prior to this role, for more than ten years, I have been a technical product and program manager working at the intersection of research, product and engineering in semiconductor manufacturing industry specializing in developing and deploying AI platform solutions. I was fortunate to work at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) and at [Synopsys](https://www.synopsys.com/).
 
