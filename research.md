@@ -4,11 +4,7 @@ title:
 permalink: /research/
 author_profile: true
 ---
----
-title: Publications & Research Papers
-author: Dr. Jane Doe
-updated: 2026-08-20
----
+
 
 # Research Papers
 
