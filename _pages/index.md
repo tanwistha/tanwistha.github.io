@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 I am an adjunct professor at the Department of Computer Science at Lewis and Clark College. Prior to this role, for more than ten years, I have been a technical product and program manager working at the intersection of research, product and engineering in semiconductor manufacturing industry specializing in developing and deploying AI platform solutions. I graduated with a PhD in Computer Science from George Mason University in the beautiful town of Fairfax, VA. I live in Portland Oregon with my family and enjoy exploring nature whenever I get time. I use this site to share my research work, writing, teaching and projects - if something catches your attention and you want to learn more, feel free to drop me a line! 
-This paragraph will be significantly larger.
-{ : style="font-size: 0.5em;" }
+
 
 ## Recent News
 
