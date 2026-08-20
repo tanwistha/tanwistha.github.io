@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-# Research Papers
-
 A comprehensive list of published journal articles, conference papers, and working preprints.
 
 ## Conference Proceedings
@@ -40,6 +38,6 @@ A comprehensive list of published journal articles, conference papers, and worki
 
 * **Predicting Failing Circuit Designs Resulting From Software Code Change**
   * **Authors:** T. Saha, D. Chandra, A. Pandey, S. Ongole, L. Venkatachari
-  * US Patent Pending, filed by [Synopsys Inc.](https://www.synopsys.com/)
+  * **US Patent Pending** (2024), filed by [Synopsys Inc.](https://www.synopsys.com/)
 
 ---
