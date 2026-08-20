@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Tanwistha's Homepage"
+title                    : "Tanwistha Saha"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Computer Scientist # site tagline that appears below site title in masthead
 name                     : "Tanwistha Saha"
 description              : "Official Homepage for Teaching, Research etc."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -117,7 +117,7 @@ author:
   name             : "Tanwistha Saha, PhD."
   avatar           : "/assets/images/IMG_9434_copy.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Adjunct Professor of Computer Science @ Lewis and Clark College, 
-                      Technical Product Manager for AI Infra & Platforms"
+                      Technical Product Manager for AI / ML Platform Solutions"
   location         : "Portland, Oregon, USA"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
