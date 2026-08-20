@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-*Always under construction*
+*(Always under construction)*
 
 Place where I write/log stuff about my hobby, side projects etc.
 
