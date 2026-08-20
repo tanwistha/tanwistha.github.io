@@ -30,3 +30,16 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# images etc.
+*/*/*.PNG
+*/*/*.JPG
+*/*/*.JPEG
+*.PNG
+*.JPEG
+*.JPG
+
+# data files
+*/*.txt 
+*/*.xls
+
