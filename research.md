@@ -8,6 +8,24 @@ author_profile: true
 
 A (somewhat) comprehensive list of published conference papers, book chapters, patents and working preprints. For more up to date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=MbxT0B0AAAAJ&hl=en)
 
+## Patents
+
+* **Predicting Failing Circuit Designs Resulting From Software Code Change**
+  * **Authors:** T. Saha, D. Chandra, A. Pandey, S. Ongole, L. Venkatachari
+  * **US Patent Pending** (2024) [filed by [Synopsys Inc.](https://www.synopsys.com/)]
+
+---
+
+## Book Chapter
+
+* **Relational Network Classification and its Applications to Recommender Systems**
+  * **Authors:** T. Saha, H. Rangwala, C. Domeniconi
+  * **Journal:** *Encyclopedia of Social Network Analysis and Mining 2nd Edition.* (2018)
+  * **Details:** pp. 2190–2201
+  * **Links:** [[Publisher DOI](https://doi.org/10.1007/978-1-4939-7131-2_110164)]
+
+---
+
 ## Conference Proceedings
 
 * **Predicting Preference Tags to Improve Item Recommendation**
@@ -44,20 +62,3 @@ A (somewhat) comprehensive list of published conference papers, book chapters, p
 
 ---
 
-## Book Chapter
-
-* **Relational Network Classification and its Applications to Recommender Systems**
-  * **Authors:** T. Saha, H. Rangwala, C. Domeniconi
-  * **Journal:** *Encyclopedia of Social Network Analysis and Mining 2nd Edition.* (2018)
-  * **Details:** pp. 2190–2201
-  * **Links:** [[Publisher DOI](https://doi.org/10.1007/978-1-4939-7131-2_110164)]
-
----
-
-## Patents
-
-* **Predicting Failing Circuit Designs Resulting From Software Code Change**
-  * **Authors:** T. Saha, D. Chandra, A. Pandey, S. Ongole, L. Venkatachari
-  * **US Patent Pending** (2024) [filed by [Synopsys Inc.](https://www.synopsys.com/)]
-
----
